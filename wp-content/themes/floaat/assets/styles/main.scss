@@ -1,0 +1,24 @@
+/* stylelint-disable */
+@import "common/variables";
+@import "./autoload/bootstrap";
+@import "components/preloader";
+@import "./autoload/slick";
+@import "./components/menu";
+// css reset and global
+@import "common/reset";
+@import "common/global";
+// main style
+@import "layouts/header";
+@import "layouts/hero_block";
+@import "layouts/client";
+@import "layouts/we_do";
+@import "layouts/team";
+@import "layouts/footer";
+
+/**
+ * Import npm dependencies
+ *
+ * Prefix your imports with `~` to grab from node_modules/
+ * @see https://github.com/webpack-contrib/sass-loader#imports
+ */
+// @import "~some-node-module";
