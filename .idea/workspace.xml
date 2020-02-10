@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4393cb6c-81aa-45a4-aabe-8253113c3db3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/floaat.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js.map" afterPath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js.map" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/basica.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/basica_big.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg2-item1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg2-item2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg2-item3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg3-item1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg3-item2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/camera.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/creative.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/gear_big.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/gear_red.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/gear_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/graphik_big.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/graphik_red.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/graphik_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone_big.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone_red.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/hlopushka_red.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/hlopushka_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/love.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/lupa_big.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/lupa_red.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/lupa_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/mainicon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/mini-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star_big.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star_red.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/autoload/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/autoload/_bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/autoload/_slick.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/components/preloader.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/_mixins/_custom-scrollbars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/_mixins/_font-face.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_bootstrap.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_fontawesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_fonts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_slick.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/common/_global.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/common/_reset.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/common/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/component/_menu.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/component/_preloader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_client.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_hero_block.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_team.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_we_do.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,8 +26,8 @@
       <file leaf-file-name="team.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/team.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="220">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -274,6 +191,33 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="main.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template-parts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -337,15 +281,16 @@
       <option name="presentableId" value="Default" />
       <updated>1580923130546</updated>
       <workItem from="1580923132185" duration="4901000" />
-      <workItem from="1581098929994" duration="32777000" />
+      <workItem from="1581098929994" duration="33027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37678000" />
+    <option name="totallyTimeSpent" value="37928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18251929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -356,7 +301,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30634278" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30634278" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -731,14 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
@@ -794,10 +731,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800974">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/team.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="220">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
       </provider>
