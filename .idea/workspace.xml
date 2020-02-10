@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4393cb6c-81aa-45a4-aabe-8253113c3db3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/floaat.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js.map" afterPath="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js.map" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/fonts/Overpass/Overpass-SemiBold.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/basica.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/basica_big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg-item6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg2-item1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg2-item2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg2-item3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg3-item1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/bg3-item2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/camera.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/client6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/creative.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/gear_big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/gear_red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/gear_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/graphik_big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/graphik_red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/graphik_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone_big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone_red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/headphone_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/hlopushka_red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/hlopushka_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/love.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/lupa_big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/lupa_red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/lupa_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/mainicon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/mini-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/photo4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star_big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star_red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/images/star_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/autoload/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/autoload/_bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/autoload/_slick.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/components/preloader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/scripts/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/_mixins/_custom-scrollbars.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/_mixins/_font-face.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_fontawesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_fonts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/autoload/_slick.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/common/_global.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/common/_reset.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/common/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/component/_menu.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/component/_preloader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_client.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_hero_block.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_team.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/layouts/_we_do.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/floaat/src- start/styles/main.scss" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_client.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/layouts/_client.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/team.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wp-dashboard</find>
+      <find>beetroot-starter</find>
+      <find>beetroot</find>
+      <find>BEETROOT</find>
+      <find>Beetroot</find>
+      <find>test</find>
+      <find>wp_enqueue_scripts</find>
+      <find>star.p</find>
+      <find>acf_add_options_page</find>
+      <find>floaat_categorized_blog</find>
+      <find>Betroot_Navwalker</find>
+      <find>floaat_pagination</find>
+      <find>Betroot_Comments</find>
+      <find>two_side_container</find>
+      <find>search</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>floaat</replace>
+      <replace>FLOAAT</replace>
+      <replace>Floaat</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat2/template-parts/simple-header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat2/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat2/template-parts/hero-section.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat2/assets/scripts/main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/build/config.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/index.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/page-templates/home-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/hero-block.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/scripts/components/preloader.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/build/webpack.config.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/scripts/main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/lib/widget-areas.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/lib/menu-areas.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/404.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/lib/framework.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/lib/enqueue-scripts.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content-none.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/sidebar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/search.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/common/_global.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/.gitignore" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/enqueue-scripts.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/layouts/_client.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/hero_block.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/clients.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/bower" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wp-content/themes/floaat/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="template-parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="floaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="floaat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="template-parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Floaat-to-WP" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\User\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServ\OSPanel\domains\floaat\wp-content\themes\floaat" />
+      <recent name="C:\OpenServ\OSPanel\domains\floaat\wp-content\themes\floaat2\template-parts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4393cb6c-81aa-45a4-aabe-8253113c3db3" name="Default" comment="" />
+      <created>1580923130546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580923130546</updated>
+      <workItem from="1580923132185" duration="4901000" />
+      <workItem from="1581098929994" duration="32777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37678000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18251929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30634278" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/acf_field_groups_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/jetpack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/widget-areas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/menu-areas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="81" column="6" lean-forward="true" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/theme-support.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/protocol-relative-theme-assets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/framework.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/lib/enqueue-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#6#143#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2857">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="2687" column="9" lean-forward="false" selection-start-line="2687" selection-start-column="9" selection-end-line="2687" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/simple-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content-none.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#117#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/layouts/_posts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/common/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/common/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/_mixins/_custom-scrollbars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/autoload/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/common/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/.phpcs.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/page-templates/home-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/enqueue-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="104" lean-forward="true" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/dist/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/hero_block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="44" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/clients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <marker date="1581338820339" expanded="true" signature="1306:1395" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="1353:1395" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="2052:2190" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="2125:2190" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="2332:2412" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="2572:2907" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="3259:3463" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="3872:4498" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="3933:4072" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="4027:4067" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="4133:4272" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="4227:4267" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="4333:4472" ph="..." />
+            <marker date="1581338820339" expanded="true" signature="4427:4467" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/assets/styles/layouts/_client.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/floaat/template-parts/layouts/team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
