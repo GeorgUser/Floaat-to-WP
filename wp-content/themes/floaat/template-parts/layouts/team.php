@@ -10,65 +10,35 @@
     <div class="page__container">
         <?php get_template_part('template-parts/simple-header'); ?>
         <div class="team__title">
-            <h2>our team</h2>
+            <h2><?php echo get_sub_field('title') ?></h2>
         </div>
+
+        <?php if( have_rows('slider') ): ?>
+
         <div class="team__slider" id="slider2">
-            <div class="team__slider__item">
-                <div class="overlay hover-js white">
-                    <img src="<?php echo $template_url?>/dist/images/photo1.jpg"
-                         alt="photo">
-                    <div class="hover">
-                        <p class="name">Thomas French</p>
-                        <p class="profession">Video
-                            Maker</p>
+
+                <?php
+                var_dump(get_sub_field('name') );
+                while( have_rows('slider') ): the_row();
+
+                    $photo = get_sub_field('photo');
+                    $name = get_sub_field('name');
+                    $position = get_sub_field('position');
+                    ?>
+
+
+                    <div class="team__slider__item">
+                        <div class="overlay hover-js white">
+                            <img src="<?php echo $photo['url'] ?>" alt="<?php echo $photo['alt'] ?>">
+                            <div class="hover">
+                                <p class="name"><?php echo $name ?></p>
+                                <p class="profession"><?php echo $position ?></p>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                <?php endwhile; ?>
             </div>
-            <div class="team__slider__item">
-                <div class="overlay hover-js white">
-                    <img src="<?php echo $template_url?>/dist/images/photo2.jpg"
-                         alt="photo">
-                    <div class="hover">
-                        <p class="name">Thomas French</p>
-                        <p class="profession">Video
-                            Maker</p>
-                    </div>
-                </div>
-            </div>
-            <div class="team__slider__item">
-                <div class="overlay hover-js white">
-                    <img src="<?php echo $template_url?>/dist/images/photo3.jpg"
-                         alt="photo">
-                    <div class="hover">
-                        <p class="name">Thomas French</p>
-                        <p class="profession">Video
-                            Maker</p>
-                    </div>
-                </div>
-            </div>
-            <div class="team__slider__item">
-                <div class="overlay hover-js white">
-                    <img src="<?php echo $template_url?>/dist/images/photo4.jpg"
-                         alt="photo">
-                    <div class="hover">
-                        <p class="name">Thomas French</p>
-                        <p class="profession">Video
-                            Maker</p>
-                    </div>
-                </div>
-            </div>
-            <div class="team__slider__item">
-                <div class="overlay hover-js white">
-                    <img src="<?php echo $template_url?>/dist/images/photo2.jpg"
-                         alt="photo">
-                    <div class="hover">
-                        <p class="name">Thomas French</p>
-                        <p class="profession">Video
-                            Maker</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php endif; ?>
         <ul class="bg-parallax">
             <li class="bg-parallax__item item1"><img
                     src="<?php echo $template_url?>/dist/images/bg3-item1.png" alt=""></li>
