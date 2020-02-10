@@ -1,0 +1,15 @@
+@import "common/variables";
+@import "./autoload/bootstrap";
+@import "component/preloader";
+@import "./autoload/slick";
+@import "./component/menu";
+// css reset and global
+@import "common/reset";
+@import "common/global";
+// main style
+@import "layouts/header";
+@import "layouts/hero_block";
+@import "layouts/client";
+@import "layouts/we_do";
+@import "layouts/team";
+@import "layouts/footer";
