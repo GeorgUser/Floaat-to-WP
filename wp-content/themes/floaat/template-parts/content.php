@@ -7,7 +7,7 @@
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage floaat
  * @since 1.0.0
  */
 
@@ -54,8 +54,6 @@
 
         edit_post_link();
 
-        // Single bottom post meta.
-        twentytwenty_the_post_meta( get_the_ID(), 'single-bottom' );
 
         if ( is_single() ) {
 

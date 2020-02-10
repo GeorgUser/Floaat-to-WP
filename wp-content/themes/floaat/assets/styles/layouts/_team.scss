@@ -7,6 +7,11 @@
   .header {
     position: relative;
     padding: 0;
+    &__menu--black {
+      a {
+        color: $black;
+      }
+    }
   }
 
   .bg-parallax {
