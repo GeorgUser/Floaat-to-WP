@@ -124,6 +124,7 @@
           }
 
           .sub-title {
+            text-decoration: none;
             margin-top: 10px;
             font-family: $arch-black;
             font-style: normal;
@@ -149,8 +150,9 @@
 
       .line {
         display: flex;
-        justify-content: center;
-
+        flex-flow: row wrap;
+        align-content: space-between;
+        justify-content: space-between;
         .tab {
           margin: 10px;
           border-radius: 15px;
@@ -160,6 +162,9 @@
           position: relative;
           transition: 500ms all;
           overflow: hidden;
+          &:nth-child(3n) {
+            page-break-after: always;
+          }
 
           @include media-breakpoint-down(xl) {
             height: 170px;

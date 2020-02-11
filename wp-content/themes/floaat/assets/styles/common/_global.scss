@@ -6,6 +6,10 @@
 
 //   ----  CURSOR -------   //
 
+html {
+  height: 100%;
+}
+
 body, a {
   cursor: none !important;
 }
@@ -91,6 +95,8 @@ body {
   }
 }
 
+//   ----  BG Parallax end -------   //
+
 .page__container {
   @include make-container();
   @include make-container-max-widths();
@@ -99,6 +105,34 @@ body {
 .page__row {
   @include make-row();
 }
+
+.simple_space {
+  padding-top: 90px;
+}
+
+article {
+  margin-bottom: 20px;
+}
+
+blockquote {
+  background-color: $bg-clients;
+  padding: 5px;
+}
+
+input {
+  outline: none;
+
+  &:focus {
+    box-shadow: none !important;
+  }
+}
+
+.search-form {
+  margin-bottom: 20px;
+}
+
+
+
 
 
 

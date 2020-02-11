@@ -31,6 +31,7 @@ get_header(); ?>
             endwhile;
         endif;
         ?>
+        <?php if(is_active_sidebar( 'sidebar-1' )){?>
         <div class="two_side_container">
             <?php
             while ( have_posts() ) : the_post();
@@ -41,6 +42,7 @@ get_header(); ?>
             ?>
             <br clear="all"/>
         </div>
+        <?php } ?>
     </section><!-- #main -->
 </div><!-- #primary -->
 

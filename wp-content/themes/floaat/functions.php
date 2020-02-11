@@ -23,10 +23,9 @@ if (function_exists('acf_add_options_page')) {
         'redirect' => true
     ));
 }
-
+// register post-thumbnails
 function floaat_post_thumbnails() {
     add_theme_support( 'post-thumbnails' );
-    add_theme_support( 'custom-logo' );
 }
 add_action( 'after_setup_theme', 'floaat_post_thumbnails' );
 

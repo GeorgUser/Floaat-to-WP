@@ -13,8 +13,8 @@
 
 get_header(); ?>
 
-	<div id="primary" class="content-area">
-		<section id="main" class="site-main" role="main">
+	<div id="primary" class="bg_by_sub_page">
+		<section id="main" class="page__container__all" role="main">
 
 		<?php
 		if ( have_posts() ) :

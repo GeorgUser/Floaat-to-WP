@@ -10,18 +10,18 @@
 get_header();
 ?>
 
-    <main id="site-content" role="main">
+    <main id="site-content" role="main" class="bg_by_sub_page">
 
-        <div class="section-inner thin error404-content">
+        <div class="page__container__all">
 
-            <h1 class="entry-title"><?php _e( 'Page Not Found', 'twentytwenty' ); ?></h1>
+            <h1 class="entry-title"><?php _e( 'Page Not Found', 'floaat' ); ?></h1>
 
             <div class="intro-text"><p><?php _e( 'The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place.', 'twentytwenty' ); ?></p></div>
 
             <?php
             get_search_form(
                 array(
-                    'label' => __( '404 not found', 'twentytwenty' ),
+                    'label' => __( '404 not found', 'floaat' ),
                 )
             );
             ?>
@@ -29,8 +29,6 @@ get_header();
         </div><!-- .section-inner -->
 
     </main><!-- #site-content -->
-
-<?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 
 <?php
 get_footer();
