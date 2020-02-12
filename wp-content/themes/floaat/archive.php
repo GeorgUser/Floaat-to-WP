@@ -3,59 +3,56 @@
  * The template for displaying archive pages.
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
- *
+ * @package Floaat
  */
 
 get_header(); ?>
 
-    <div id="primary" class="content-area">
-        <section id="main" class="site-main simple_space" role="main">
-            <div class="page__container">
-                <div class="page__row">
-                    <?php if(is_active_sidebar( 'sidebar-1' )){?>
-                    <div class="content_sidebar_active">
-                        <?php } ?>
-                        <?php
-                        if (have_posts()) : ?>
+	<div id="primary" class="content-area">
+		<section id="main" class="site-main" role="main">
 
-                            <header class="page-header">
-                                <?php
-                                the_post_thumbnail();
-                                the_archive_title('<h1 class="page-title">', '</h1>');
-                                the_archive_description('<div class="taxonomy-description">', '</div>');
-                                ?>
-                            </header><!-- .page-header -->
+			<?php
+			if ( have_posts() ) :
+				?>
 
-                            <?php
-                            /* Start the Loop */
-                            while (have_posts()) : the_post();
+				<header class="page-header">
+					<?php
+					the_post_thumbnail();
+					the_archive_title( '<h1 class="page-title">', '</h1>' );
+					the_archive_description( '<div class="taxonomy-description">', '</div>' );
+					?>
+				</header><!-- .page-header -->
 
-                                /*
-                                 * Include the Post-Format-specific template for the content.
-                                 * If you want to override this in a child theme, then include a file
-                                 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
-                                 */
-                                get_template_part('template-parts/content', get_post_format());
+				<?php
+				/* Start the Loop */
+				while ( have_posts() ) : the_post();
 
-                            endwhile;
+					/*
+					 * Include the Post-Format-specific template for the content.
+					 * If you want to override this in a child theme, then include a file
+					 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
+					 */
+					get_template_part( 'template-parts/content', get_post_format() );
 
-                            the_posts_navigation();
+				endwhile;
 
-                        else :
+				the_posts_navigation();
 
-                            get_template_part('template-parts/content', 'none');
+				else :
 
-                        endif; ?>
-                    </div>
-                    <?php if(is_active_sidebar( 'sidebar-1' )){?>
-                        <div class="sidebar">
-                            <?php get_sidebar(); ?>
-                        </div>
-                    <?php } ?>
-                </div>
-            </div>
-        </section><!-- #main -->
-    </div><!-- #primary -->
+					get_template_part( 'template-parts/content', 'none' );
+
+			endif;
+				?>
+
+		</section><!-- #main -->
+	</div><!-- #primary -->
 
 <?php
+if (is_active_sidebar('sidebar-1')) {
+    ?>
+    <div class="sidebar">
+        <?php get_sidebar(); ?>
+    </div>
+<?php }
 get_footer();

@@ -10,9 +10,9 @@
 get_header();
 ?>
 
-    <main id="site-content" role="main" class="bg_by_sub_page">
+    <main id="site-content" role="main" class="site-content-custom">
 
-        <div class="page__container__all">
+        <div class="page__container">
 
             <h1 class="entry-title"><?php _e( 'Page Not Found', 'floaat' ); ?></h1>
 

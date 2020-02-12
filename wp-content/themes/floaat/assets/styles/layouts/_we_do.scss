@@ -133,6 +133,9 @@
             letter-spacing: 0.4px;
             text-transform: uppercase;
             color: $red;
+            &:focus {
+              outline: none;
+            }
           }
         }
       }
@@ -154,7 +157,7 @@
         align-content: space-between;
         justify-content: space-between;
         .tab {
-          margin: 10px;
+          margin: 10px auto;
           border-radius: 15px;
           background-color: $bg-tabs;
           width: 200px;
@@ -167,15 +170,18 @@
           }
 
           @include media-breakpoint-down(xl) {
-            height: 170px;
+            height: 160px;
+            width: 160px;
           }
 
           @include media-breakpoint-down(lg) {
-            height: 143px;
+            height: 160px;
+            width: 180px;
           }
 
           @include media-breakpoint-down(sm) {
             height: 68px;
+            width: 68px;
           }
 
           &:hover {

@@ -106,32 +106,6 @@ body {
   @include make-row();
 }
 
-.simple_space {
-  padding-top: 90px;
-}
-
-article {
-  margin-bottom: 20px;
-}
-
-blockquote {
-  background-color: $bg-clients;
-  padding: 5px;
-}
-
-input {
-  outline: none;
-
-  &:focus {
-    box-shadow: none !important;
-  }
-}
-
-.search-form {
-  margin-bottom: 20px;
-}
-
-
 
 
 

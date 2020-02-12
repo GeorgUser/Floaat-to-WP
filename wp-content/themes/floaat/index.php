@@ -14,7 +14,7 @@
 get_header(); ?>
 
 	<div id="primary" class="bg_by_sub_page">
-		<section id="main" class="page__container__all" role="main">
+		<section id="main" class="page__container" role="main">
 
 		<?php
 		if ( have_posts() ) :
@@ -53,5 +53,10 @@ get_header(); ?>
 	</div><!-- #primary -->
 
 <?php
-get_sidebar();
+if (is_active_sidebar('sidebar-1')) {
+    ?>
+    <div class="sidebar">
+        <?php get_sidebar(); ?>
+    </div>
+<?php }
 get_footer();

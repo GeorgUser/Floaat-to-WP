@@ -63,7 +63,7 @@
                                 </ul>
                                 <div class="text">
                                     <h4 class="title"><?php the_title() ?></h4>
-                                    <a href="" class="sub-title hover-js white">learn
+                                    <a href="<?php the_permalink() ?>" class="sub-title hover-js white">learn
                                         more</a>
                                 </div>
                             </div>

@@ -41,5 +41,10 @@ get_header(); ?>
 	</section><!-- #primary -->
 
 <?php
-get_sidebar();
+if (is_active_sidebar('sidebar-1')) {
+    ?>
+    <div class="sidebar">
+        <?php get_sidebar(); ?>
+    </div>
+<?php }
 get_footer();

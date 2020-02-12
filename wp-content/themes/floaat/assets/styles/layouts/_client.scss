@@ -86,6 +86,12 @@
     position: relative;
     margin:auto;
     column-count:3;
+    @include media-breakpoint-down(lg) {
+      column-count:2;
+    }
+    @include media-breakpoint-down(md) {
+      column-count:3;
+    }
     @include media-breakpoint-down(sm) {
       display: flex;
       flex-direction: column;
