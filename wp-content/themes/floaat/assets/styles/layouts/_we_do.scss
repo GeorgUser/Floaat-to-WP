@@ -1,7 +1,7 @@
 /* stylelint-disable */
-.we_do {
+.we_do_block {
   background-color: $purple;
-  padding-bottom: 140px;
+  padding-bottom: 50px;
   padding-top: 10px;
   @include media-breakpoint-down(md) {
     padding-top: 50px;

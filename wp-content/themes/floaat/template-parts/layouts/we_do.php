@@ -6,11 +6,11 @@
  * Time: 16:31
  */ ?>
 <?php $template_url = get_bloginfo('template_url'); ?>
-<section class="we_do panel" id="we_do">
+<section class="we_do_block panel" id="we_do_block">
     <div class="page__container">
         <?php get_template_part('template-parts/simple-header'); ?>
-        <div class="we_do__title"><p><?php echo get_sub_field('title') ?></p></div>
-        <div class="we_do__slider-section">
+        <div class="we_do_block__title"><p><?php echo get_sub_field('title') ?></p></div>
+        <div class="we_do_block__slider-section">
 
             <?php $query = get_posts(array(
                 'post_type' => 'we_do',
@@ -18,7 +18,7 @@
             ));
 
             if (!empty($query)) : ?>
-                <div class="we_do__slider-section__tabs">
+                <div class="we_do_block__slider-section__tabs">
                     <ul class="line">
                         <?php
                         foreach ($query as $i => $post) :
@@ -40,7 +40,7 @@
                 </div>
 
 
-                <div class="we_do__slider-section__body">
+                <div class="we_do_block__slider-section__body">
                     <div id="slider1">
                         <?php
                         foreach ($query as $i => $post) :

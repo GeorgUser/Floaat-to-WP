@@ -52,3 +52,33 @@ function register_theme_menus() {
     );
 }
 add_action( 'after_setup_theme', 'register_theme_menus' );
+
+// Custom Log In
+
+function my_login_logo() { ?>
+    <style type="text/css">
+        #login form input {
+            border: 2px solid #561838!important;
+        }
+        #login form button span::before {
+            color: #561838!important;
+        }
+        #login form .button-large {
+            background-color: #561838!important;
+        }
+        #login h1 a, .login h1 a {
+            background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/dist/images/gear_big.png);
+            height:120px;
+            width:120px;
+            background-size: 120px 120px;
+            background-repeat: no-repeat;
+        }
+    </style>
+<?php }
+add_action( 'login_enqueue_scripts', 'my_login_logo' );
+
+function my_login_stylesheet() {
+    wp_enqueue_style( 'custom-login', get_stylesheet_directory_uri() . '/style-login.css' );
+    wp_enqueue_script( 'custom-login', get_stylesheet_directory_uri() . '/dist/scripts/main.js' );
+}
+add_action( 'login_enqueue_scripts', 'my_login_stylesheet' );

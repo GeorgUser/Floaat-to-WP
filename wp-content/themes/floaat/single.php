@@ -1,39 +1,30 @@
 <?php
 /**
- * The template for displaying all single posts.
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
- *
+ * Single page
  */
-get_header(); ?>
+get_header();
+global $post; // TODO question
+?>
 
     <div id="primary" class="content-area">
         <section id="main" class="site-main simple_space" role="main">
             <div class="page__container">
                 <div class="page__row">
-                    <?php if(is_active_sidebar( 'sidebar-1' )){?>
-                    <div class="content_sidebar_active">
-                        <?php } ?>
-                        <?php
-                        while ( have_posts() ) : the_post();
+                    <div class="page__padding">
+                        <div class="single__content">
 
-                            get_template_part( 'template-parts/content', get_post_format() );
-
-                            the_post_navigation();
-
-                            // If comments are open or we have at least one comment, load up the comment template.
-                            if ( comments_open() || get_comments_number() ) :
-                                comments_template();
-                            endif;
-
-                        endwhile; // End of the loop.
-                        ?>
-                    </div>
-                    <?php if(is_active_sidebar( 'sidebar-1' )){?>
-                        <div class="sidebar">
-                            <?php get_sidebar(); ?>
+                            <?php if(the_post_thumbnail_url()): ?>
+                                <img src="<?php the_post_thumbnail_url(); ?>"
+                                 alt="gear">
+                            <?php endif; ?>
+                            <div class="description">
+                                <H1><?php the_title() ?></H1>
+                                <?php echo $post->post_content; ?>
+                            </div>
                         </div>
-                    <?php } ?>
+                    </div>
+
+
                 </div>
             </div>
         </section><!-- #main -->

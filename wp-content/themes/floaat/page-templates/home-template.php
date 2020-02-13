@@ -5,7 +5,7 @@
  */
 
 get_header(); ?>
-<?php $template_url = get_bloginfo('template_url'); ?>
+
 <div id="primary" class="content-area">
     <section id="main" class="site-main" role="main">
 
@@ -31,18 +31,6 @@ get_header(); ?>
             endwhile;
         endif;
         ?>
-        <?php if(is_active_sidebar( 'sidebar-1' )){?>
-        <div class="two_side_container">
-            <?php
-            while ( have_posts() ) : the_post();
-
-                the_content();
-
-            endwhile; // End of the loop.
-            ?>
-            <br clear="all"/>
-        </div>
-        <?php } ?>
     </section><!-- #main -->
 </div><!-- #primary -->
 

@@ -1,0 +1,59 @@
+/* stylelint-disable */
+.content-404 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+
+  .bg-parallax {
+    @include media-breakpoint-down(md) {
+      display: none;
+    }
+    img {
+      @include media-breakpoint-down(md) {
+        width: 60%;
+      }
+    }
+
+    &__item {
+      position: absolute;
+    }
+
+    .item1 {
+      top: 28%;
+      left: 25%;
+      animation: 5s parallax-bg infinite alternate-reverse;
+    }
+
+    .item2 {
+      top: 49%;
+      left: -10px;
+      animation: 6s parallax-bg infinite alternate;
+    }
+
+    .item3 {
+      bottom: 60%;
+      right: 5%;
+      animation: 4s parallax-bg infinite alternate-reverse;
+    }
+
+    .item4 {
+      top: 28%;
+      right: 40%;
+      animation: 6s parallax-bg infinite alternate;
+    }
+
+    .item6 {
+      bottom: 8%;
+      right: 10%;
+      animation: 3s parallax-bg infinite alternate;
+    }
+
+    .item8 {
+      bottom: 0;
+      left: 19%;
+      animation: 5s parallax-bg infinite alternate;
+    }
+  }
+}

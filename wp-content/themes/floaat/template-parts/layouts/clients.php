@@ -4,8 +4,7 @@
  * User: User
  * Date: 07.02.2020
  * Time: 16:26
- */ ?>
-<?php $template_url = get_bloginfo('template_url'); ?>
+ */ $template_url = get_bloginfo('template_url'); ?>
 <section id="clients" class="clients panel">
     <div class="page__container">
         <?php get_template_part('template-parts/simple-header'); ?>
