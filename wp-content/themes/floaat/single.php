@@ -1,10 +1,12 @@
 <?php
 /**
- * Single page
+ * The template for displaying all single posts.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
+ *
  */
 get_header();
-global $post; // TODO question
-?>
+while (have_posts()) : the_post(); ?>
 
     <div id="primary" class="content-area">
         <section id="main" class="site-main simple_space" role="main">
@@ -12,14 +14,13 @@ global $post; // TODO question
                 <div class="page__row">
                     <div class="page__padding">
                         <div class="single__content">
-
                             <?php if(the_post_thumbnail_url()): ?>
                                 <img src="<?php the_post_thumbnail_url(); ?>"
                                  alt="gear">
                             <?php endif; ?>
                             <div class="description">
                                 <H1><?php the_title() ?></H1>
-                                <?php echo $post->post_content; ?>
+                                <?php the_content(); ?>
                             </div>
                         </div>
                     </div>
@@ -31,4 +32,5 @@ global $post; // TODO question
     </div><!-- #primary -->
 
 <?php
+endwhile;
 get_footer();

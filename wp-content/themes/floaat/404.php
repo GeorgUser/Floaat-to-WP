@@ -17,7 +17,7 @@ $template_url = get_bloginfo('template_url'); ?>
             <div class="page__padding">
                 <h1 class="entry-title"><?php _e( 'Page Not Found', 'floaat' ); ?></h1>
 
-                <div class="intro-text"><p><?php _e( 'The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place.', 'twentytwenty' ); ?></p></div>
+                <div class="intro-text"><p><?php _e( 'The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place.', 'floaat' ); ?></p></div>
 
                 <?php
                 get_search_form(

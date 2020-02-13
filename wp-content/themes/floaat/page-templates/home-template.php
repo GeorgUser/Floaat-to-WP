@@ -29,7 +29,9 @@ get_header(); ?>
 
                 }
             endwhile;
-        endif;
+        else:?>
+            <h1 class="non_content">Probably need to fill in the fields on the page</h1>
+        <?php endif;
         ?>
     </section><!-- #main -->
 </div><!-- #primary -->

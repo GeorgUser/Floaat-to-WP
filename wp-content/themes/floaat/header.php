@@ -35,7 +35,7 @@
         <div id="image_display" class="image"><img
                     src='<?php echo $template_url ?>/dist/images/star.png' alt='star'></div>
         <span id="percent_display">00</span>
-        <p>loading...</p>
+        <p><?php _e('loading...', 'floaat') ?></p>
     </div>
 </div>
 

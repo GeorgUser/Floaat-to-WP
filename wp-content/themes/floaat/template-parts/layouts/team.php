@@ -10,7 +10,7 @@
     <div class="page__container">
         <?php get_template_part('template-parts/simple-header'); ?>
         <div class="team__title">
-            <h2><?php echo get_sub_field('title') ?></h2>
+            <h2><?php the_sub_field('title') ?></h2>
         </div>
 
         <?php if( have_rows('slider') ): ?>
@@ -18,7 +18,6 @@
         <div class="team__slider" id="slider2">
 
                 <?php
-                var_dump(get_sub_field('name') );
                 while( have_rows('slider') ): the_row();
 
                     $photo = get_sub_field('photo');

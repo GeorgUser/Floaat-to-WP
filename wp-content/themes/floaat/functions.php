@@ -11,7 +11,7 @@ require_once locate_template( '/enqueue-scripts.php' );
 
 
 // Disable the theme / plugin text editor in Admin
-define( 'DISALLOW_FILE_EDIT', true );
+define( 'DISALLOW_FILE_EDIT', false );
 
 
 // ACF Options Pages
@@ -76,9 +76,3 @@ function my_login_logo() { ?>
     </style>
 <?php }
 add_action( 'login_enqueue_scripts', 'my_login_logo' );
-
-function my_login_stylesheet() {
-    wp_enqueue_style( 'custom-login', get_stylesheet_directory_uri() . '/style-login.css' );
-    wp_enqueue_script( 'custom-login', get_stylesheet_directory_uri() . '/dist/scripts/main.js' );
-}
-add_action( 'login_enqueue_scripts', 'my_login_stylesheet' );

@@ -9,7 +9,7 @@
 <section class="we_do_block panel" id="we_do_block">
     <div class="page__container">
         <?php get_template_part('template-parts/simple-header'); ?>
-        <div class="we_do_block__title"><p><?php echo get_sub_field('title') ?></p></div>
+        <div class="we_do_block__title"><p><?php the_sub_field('title') ?></p></div>
         <div class="we_do_block__slider-section">
 
             <?php $query = get_posts(array(
@@ -63,8 +63,8 @@
                                 </ul>
                                 <div class="text">
                                     <h4 class="title"><?php the_title() ?></h4>
-                                    <a href="<?php the_permalink() ?>" class="sub-title hover-js white">learn
-                                        more</a>
+                                    <a href="<?php the_permalink() ?>" class="sub-title hover-js white">
+                                        <?php _e('learn more', 'floaat') ?></a>
                                 </div>
                             </div>
 

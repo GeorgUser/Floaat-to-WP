@@ -5,12 +5,11 @@
     <div class="page__container">
         <?php get_template_part('template-parts/simple-header'); ?>
         <div class="hero_block__title" id="inner">
-            <p><?php echo get_sub_field('sub_title'); ?></p>
-            <p class="h1 title"><?php echo get_sub_field('title'); ?></p>
+            <p><?php the_sub_field('sub_title'); ?></p>
+            <p class="h1 title"><?php the_sub_field('title'); ?></p>
 
             <?php
-            $image = get_sub_field('image');
-            if( !empty( $image ) ): ?>
+            if( !empty( $image = get_sub_field('image') ) ): ?>
                 <img src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
             <?php endif; ?>
 
@@ -38,9 +37,9 @@
         <?php
         if( !empty( get_sub_field('counter') ) ): ?>
         <div class="hero_block__counter_body">
-            <p class="text">our content has reached</p>
+            <p class="text"><?php _e('our content has reached', 'floaat')?></p>
             <p class="counter" id="counter"></p>
-            <p class="viewers">viewers</p>
+            <p class="viewers"><?php _e('viewers', 'floaat'); ?></p>
         </div>
         <?php endif; ?>
     </div>

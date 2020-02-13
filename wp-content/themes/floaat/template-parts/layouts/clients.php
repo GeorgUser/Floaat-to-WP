@@ -11,12 +11,12 @@
         <div class="page__row">
             <div class="clients__text__col">
                 <div class="clients__text">
-                    <h2><?php echo get_sub_field('title'); ?></h2>
-                    <p class="desc"><?php echo get_sub_field('description'); ?></p>
+                    <h2><?php the_sub_field('title'); ?></h2>
+                    <p class="desc"><?php the_sub_field('description'); ?></p>
                     <?php
                     if( !empty( get_sub_field('link_toggle') ) ):
-                    $link = get_sub_field('link');
-                    if( $link ):
+
+                    if( $link = get_sub_field('link')):
                         $link_url = $link['url'];
                         $link_title = $link['title'];
                         $link_target = $link['target'] ? $link['target'] : '_self';
